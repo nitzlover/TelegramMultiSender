@@ -93,7 +93,7 @@
 
 ## Download Ready-to-Use EXE
 
-1. **Скачать стабильную версию (EXE)** [Пример ссылки]  
+1. **Скачать стабильную версию (EXE)** [[Releases](https://github.com/nitzlover/TelegramMultiSender/releases)]  
 2. Поместите скачанный `.exe` файл в удобную для вас папку.  
 3. Запустите `.exe` файл двойным кликом.  
 
