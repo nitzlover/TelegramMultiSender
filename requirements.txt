@@ -1,0 +1,5 @@
+PyQt6==6.5.1
+telethon==1.29.2
+asyncio
+qrcode[pil]
+qasync
